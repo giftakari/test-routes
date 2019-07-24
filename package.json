@@ -1,0 +1,24 @@
+{
+  "name": "test-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Godsgift Akari",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^3.0.4",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "sqlite3": "^4.0.6",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "prettier": "1.16.4"
+  }
+}
